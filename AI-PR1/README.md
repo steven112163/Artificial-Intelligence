@@ -2,7 +2,7 @@
 Just for homework
 
 ## Prerequisite
-* python >= 3.6.7 or 2.7.0
+* Python >= 3.6.7 or 2.7.0
 
 ## Files
 | File | Description |

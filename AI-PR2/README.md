@@ -4,7 +4,7 @@ Just for homework
 
 
 ## Prerequisite
-* python >= 2.7.0 or 3.6.0
+* Python >= 2.7.0 or 3.6.0
 
 
 
