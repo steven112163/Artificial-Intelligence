@@ -1,13 +1,15 @@
 # AI-PR1
-Just for AI homework
+Just for homework
 
 ## Prerequisite
 * python >= 3.6.7 or 2.7.0
 
 ## Files
-* English words 3000: all words that can be used
-* PR1.pdf: description file
-* puzzle.txt: four crossword constraints
+| File | Description |
+| --- | --- |
+| English words 3000.txt | All words that can be used |
+| PR1.pdf | Description file |
+| puzzle.txt | Four crossword constraints |
 
 ## Usage
 CrosswordSolver.py can find only one solution or all solutions under a given constraint.
