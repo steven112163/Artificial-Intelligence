@@ -42,19 +42,19 @@ $ python Forest.py
 ## Experiment Screen Shots
 
 ### Change ratio
-![image of changing ratio](https://github.com/steven112163/AI-PR2/blob/master/experiment%20screen%20shots/03%20iris%20ratio.png)
+#![image of changing ratio](https://github.com/steven112163/AI-PR2/blob/master/experiment%20screen%20shots/03%20iris%20ratio.png)
 
 ### Change number of trees
-![image of changing number of trees](https://github.com/steven112163/AI-PR2/blob/master/experiment%20screen%20shots/09%20iris%20numTree.png)
+#![image of changing number of trees](https://github.com/steven112163/AI-PR2/blob/master/experiment%20screen%20shots/09%20iris%20numTree.png)
 
 ### Change relative ratio
-![image of changing relative ratio](https://github.com/steven112163/AI-PR2/blob/master/experiment%20screen%20shots/13%20iris%20relativeRatio.png)
+#![image of changing relative ratio](https://github.com/steven112163/AI-PR2/blob/master/experiment%20screen%20shots/13%20iris%20relativeRatio.png)
 
 ### Change max depth
-![image of changing max depth](https://github.com/steven112163/AI-PR2/blob/master/experiment%20screen%20shots/19%20iris%20maxDepth.png)
+#![image of changing max depth](https://github.com/steven112163/AI-PR2/blob/master/experiment%20screen%20shots/19%20iris%20maxDepth.png)
 
 ### Change min size
-![image of changing min size](https://github.com/steven112163/AI-PR2/blob/master/experiment%20screen%20shots/25%20iris%20minSize.png)
+#![image of changing min size](https://github.com/steven112163/AI-PR2/blob/master/experiment%20screen%20shots/25%20iris%20minSize.png)
 
 
 
